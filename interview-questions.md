@@ -87,3 +87,16 @@ Controller Method: destroy
 Action: delete the student with ID 2 from the database.
 
 5. As a developer, you are making an application to manage your to do list. Create 10 user stories that will help you get your application started. [Here is a resource](https://www.atlassian.com/agile/project-management/user-stories) to help you create your user stories.
+
+If I was a user, these are the 10 things I'd want to get my app started and have as functionality:
+
+ - create a new task in the to-do list
+ - prioritize tasks in the to-do list
+ - mark tasks as completed in the to-do list
+ - set due dates for tasks in the to-do list
+ - categorize tasks in the to-do list
+ - set reminders for tasks in the to-do list
+ - add notes or additional details to tasks in the to-do list
+ - search and filter tasks in the to-do list
+ - create recurring tasks in the to-do list (e.g., daily, weekly, monthly).
+ - sync my to-do list across multiple devices
